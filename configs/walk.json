@@ -1,0 +1,22 @@
+{
+  "env": {
+    "task": "walk"
+  },
+  "num_envs": 4,
+  "total_timesteps": 5000000,
+  "save_every": 100000,
+  "torch_threads": 1,
+  "ppo": {
+    "learning_rate": 0.0003,
+    "n_steps": 1024,
+    "batch_size": 256,
+    "n_epochs": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.005,
+    "vf_coef": 0.5,
+    "max_grad_norm": 1.0,
+    "target_kl": 0.03
+  }
+}
