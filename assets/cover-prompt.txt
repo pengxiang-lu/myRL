@@ -1,0 +1,3 @@
+Generation mode: built-in image_gen
+
+Create a clean landscape 16:9 README cover image for a robotics research project. Light gray studio background with a faint MuJoCo-style floor grid, soft shadows. On the right, a realistic silver and black Unitree G1 humanoid robot in a walking pose, full body visible, compact industrial humanoid design, articulated legs, black visor head. On the left, elegant large black title exactly "myRL", and smaller subtitle exactly "Unitree G1 · PPO · MuJoCo". Minimal scientific editorial design, polished 3D rendering, generous white space, subtle blue accents. Only the specified text, no logos, no watermark, no charts, opaque background.

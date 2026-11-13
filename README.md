@@ -1,5 +1,7 @@
 # myRL
 
+![myRL：基于 PPO 与 MuJoCo 的 Unitree G1 强化学习项目](assets/cover.png)
+
 ## 一、简介
 
 　　**myRL 是一个基于 PPO 和 MuJoCo 的宇树 G1 强化学习项目**，使用 Gymnasium 封装仿真环境，通过 Stable-Baselines3 训练站立、行走和原地跳跃策略。机器人采用 G1 29 自由度 MJCF 模型，策略控制双腿 12 个关节，上身维持参考姿态。
